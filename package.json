@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "webpack serve",
     "build": "cross-env NODE_ENV=production webpack",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "start": "webpack serve"
+
   },
   "dependencies": {
     "react": "^17.0.1",
