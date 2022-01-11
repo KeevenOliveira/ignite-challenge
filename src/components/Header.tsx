@@ -3,7 +3,7 @@ export function Header() {
   return (
     <header className="header">
       <div>
-        <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F672bac2a-417d-4dec-b694-78a53519452e%2FUntitled.png?table=block&id=0fc01d15-744d-473e-aae5-e48ddbb9c6fe&spaceId=6d579cab-21e0-420d-be69-f837f71d010b&width=1720&userId=3286d9fc-f488-4b46-88e5-40497632400d&cache=v2" alt="to.do" />
+        <img src="https://lh3.googleusercontent.com/drOjPj3lvDtv-azTAO8QGA5pguEOL_3mSO45AuJVntVdhziifJBbXrEuwUyot-mfJvG76MkGEG1ELfAg-YXkhW6-fpesEMp7zkHuLr69LsR_NfJdOqRnWw1jdmJlVnfsP_NfEQhVi3YC1GXHgqC76XKtxBlH-z-4XcHzwRtcsOBiXOwqkb9jHB41AZg8MTCqf0WL3B9m8oj5e1r3ZsOKkOfzIxZwUMdAS-T02xAM7p_SW0P-9TU6JZlLVRI4K4o0mgDlzeRizj8UN0Uh5ItWhvAPwdxXlPrVhfnmX5ti8_ZhzG2WOsgkkk0cDYMUMbfW13_-81gzm5bzC72efasRTVxLm1LBh_ebBUBX3GqUAdW_GsICJGtfSNy52DZBgjG3TTl4YBj0rcxXtorSLjPpKZAU14aTI-iTk9d6XdRfF5RDTIF60Lb0kyDNcC3BlXqyVGzQf_mhCey9qc62k-NcwbvlGeuL42KuYVxXZophT_UDe0Lp_d2V8atMQFEZ48p0ef947kC-AdvciaP9USQBN7hsWwZOSd-hWPsZIfp5zTRyX_j4s75nVEYKFwygK9cDMF6LH2zTavyY36ox3XgmndGo86rl3wesF7OTkNCOEBJkBRB-9YUCVPaPnZhUbppG-hOOpvhgXFF2ZtVLuCt8ZydLVDRp5FbYPTlVeyGRuBYsEm3bfXBNc-3PmhxF6mKgW1GgbJLKkl00CApNC51nEg=w90-h28-no?authuser=1" alt="to.do" />
       </div>
     </header>
   )
