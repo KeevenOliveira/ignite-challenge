@@ -54,7 +54,7 @@ export function TaskList() {
 
   return (
     <section className="task-list container">
-      <header>
+      <header className="header-task">
         <h2>Minhas tasks</h2>
 
         <div className="input-group">
